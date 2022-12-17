@@ -101,6 +101,11 @@ span {
   margin: 0 10px 0 0;
 }
 
+.free-shipping-icon {
+  color: cornflowerblue;
+  float: unset;
+}
+
 .category {
   border-radius: 8px;
   background-color: #fff;
